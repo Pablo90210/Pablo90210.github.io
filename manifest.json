@@ -1,6 +1,6 @@
 {
-    "name": "asap",
-    "short_name": "asap",
+    "name": "trigger_generator",
+    "short_name": "trigger_generator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
